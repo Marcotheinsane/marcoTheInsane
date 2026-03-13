@@ -1,4 +1,4 @@
-# Marco Villarroel
+# Marco Ignacio Villarroel Solis
 
 💻 Informatics Student (3rd year)  
 ⚙️ Fullstack Developer 
@@ -16,22 +16,6 @@ Next.js
 Django
 Fastapi
   
-
----
-
-## Featured Projects
-
-### Mercado Estación
-Next.js 14 application with Neon PostgreSQL and REST API routes.
-
-### TREKANU INDAP
-Frontend built with Vue and Vite consuming external APIs.
-
-### Hotel lillo
-Client management system with database operations.
-
----
-
 ## Portfolio
 
 https://marcosdevlab.vercel.app
